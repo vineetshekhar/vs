@@ -1,0 +1,132 @@
+
+body {
+    text-align: center;
+  }
+  
+  #navBar {
+    background-color: grey;
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+      color: #fff;
+  }
+  
+  #about {
+    margin: 30px 100px 30px;
+  }
+  
+  h1 {
+    font-family: "DM Serif Display", serif;
+    font-size: 3rem;
+      font-weight: 1000;
+  }
+  
+  .profile-tag {
+    font-family: "DM Serif Display", serif;
+  
+  }
+  
+  .social {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+  }
+  
+  .social-icon  {
+    margin: 10px;
+  }
+  
+  .downAngle {
+    margin-top: 20px;
+    margin-bottom: 60px;
+  }
+  
+  
+  h2 {
+    font-family: 'Verdana';
+    font-size: 2rem;
+    font-weight: 700;
+  
+  }
+  
+  
+  p {
+    font-family: "Inter", sans-serif;
+  }
+  
+  .aboutText {
+    text-align: justify;
+  }
+  
+  .profile {
+    display: block;
+    text-align: center;
+  }
+  
+  .profileImage {
+    width: 20%;
+    margin-top: 10px;
+  }
+  
+  
+  table {
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+  td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+  }
+  
+  .footerSection {
+    background-color: grey;
+  }
+  
+  /* Projects */
+  .project1, .project3 {
+    text-align: left;
+    margin: 30px 100px 30px;
+    padding: 0 20px 0;
+  }
+  
+  .project2, .project4 {
+    text-align: right;
+    margin: 30px 100px 30px;
+    padding: 0 20px 0;
+  }
+  
+  .projectText {
+    text-align: justify;
+    font-family: "Inter", sans-serif;
+    font-size: 1rem;
+    font-weight: light;
+  }
+  
+  .tindog, .drumKit {
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 5%;
+  }
+  
+  .dicee, .simonGame {
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 5%;
+  }
+  
+  
+  /* Contact */
+  #contact {
+    text-align: left;
+    margin: 30px 100px 30px;
+  }
+  
+  .upArrow {
+    margin-bottom: 30px;
+  }
+  
